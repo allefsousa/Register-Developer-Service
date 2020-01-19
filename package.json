@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://allefsousa@github.com/allefsousa/Rest-service.git",
+  "author": "Allef Sousa <allefsousa_1@hotmail.com>",
+  "license": "MIT"
+}
