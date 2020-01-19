@@ -1,7 +1,10 @@
 # Rest-service
 
 Criando o package.json 
-´´yarn init -y´´
+```yarn init -y```
 
 Executando o serviço
-´´node index.js´´
+```node index.js```
+
+Adicionando Nodemon
+```yarn add nodemon -d```
