@@ -5,7 +5,7 @@ const app = express();
 
 app.get('/')
 app.get('/', (req,resp) =>{
-    return resp.json({message:'Hello'});
+    return resp.json({message:'Pelo amor de cristo'});
 })
 
 
