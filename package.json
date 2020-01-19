@@ -5,13 +5,14 @@
   "repository": "https://allefsousa@github.com/allefsousa/Rest-service.git",
   "author": "Allef Sousa <allefsousa_1@hotmail.com>",
   "license": "MIT",
-  "scripts":{
-    "dev":"nodemon index.js"
+  "scripts": {
+    "dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9"
   },
-  "devDependencies":{
+  "devDependencies": {
     "nodemon": "^2.0.2"
   }
 }

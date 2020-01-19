@@ -15,3 +15,12 @@ Adicionando Nodemon
 Exutando Serrviço com Nodemon
 ```yarn nodemon index.js```
 <br>
+
+Criando alias para rodar o serviço 
+ "scripts":{
+    "dev":"nodemon index.js"
+  }
+
+  ```yarn dev```
+
+
