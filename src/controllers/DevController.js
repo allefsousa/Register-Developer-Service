@@ -3,6 +3,10 @@ const Dev = require('../models/dev');
 const parseStringAsArray = require('../utils/ParseStringAsArray');
 
 module.exports = {
+    async home(request,response){
+        return response.send("Register Developer Service Home");
+
+    },
     async index(request,response){
         const devs = await Dev.find();
         return response.json(devs);

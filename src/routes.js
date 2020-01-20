@@ -5,6 +5,7 @@ const SearchController = require('./controllers/SearchController');
 
 
 const routes  = Router();
+routes.get('/',DevController.home);
 routes.get('/devs',DevController.index);
 routes.get('/search',SearchController.index);
 
