@@ -7,6 +7,7 @@ module.exports = {
         console.log(request.query)
         const {latitude,longitude,techs} = request.query;
 
+
         const techsArray = parseStringAsArray(techs);
 
         console.log(techsArray)

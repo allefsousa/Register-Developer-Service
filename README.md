@@ -24,9 +24,7 @@ Criando alias para rodar o serviço
 
   ```yarn dev```
 
-  <br>
   Dependencia para realizar requisição em outros serviços 
-    <br>
         
 ```yarn add axios```
 
