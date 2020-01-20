@@ -11,12 +11,10 @@ Executando o serviço
 <br>
 
 Adicionando Nodemon
-
 ```yarn add nodemon -d```
 <br>
 
 Exutando Serrviço com Nodemon
-
 ```yarn nodemon index.js```
 <br>
 
