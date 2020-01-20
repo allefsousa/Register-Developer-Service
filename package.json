@@ -6,7 +6,8 @@
   "author": "Allef Sousa <allefsousa_1@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "start":"node src/index.js"
   },
   "dependencies": {
     "axios": "^0.19.1",
