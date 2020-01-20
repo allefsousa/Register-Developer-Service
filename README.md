@@ -1,15 +1,19 @@
 # Register Developer Service
 
 Criando o package.json 
+
 ```yarn init -y```
 
 Executando o serviço
+
 ```node index.js```
 
 Adicionando Nodemon
+
 ```yarn add nodemon -d```
 
 Exutando Serrviço com Nodemon
+
 ```yarn nodemon index.js```
 
 Criando alias para rodar o serviço 
