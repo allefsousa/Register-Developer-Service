@@ -1,22 +1,16 @@
-# Rest-service
+# Register Developer Service
 
 Criando o package.json 
-<br>
 ```yarn init -y```
-<br>
 
 Executando o serviço
-<br>
 ```node index.js```
-<br>
 
 Adicionando Nodemon
 ```yarn add nodemon -d```
-<br>
 
 Exutando Serrviço com Nodemon
 ```yarn nodemon index.js```
-<br>
 
 Criando alias para rodar o serviço 
 <br>
