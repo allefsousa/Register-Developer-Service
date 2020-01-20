@@ -17,6 +17,8 @@ Adicionando Nodemon
 <br>
 
 Exutando Serrviço com Nodemon
+<br>
+
 ```yarn nodemon index.js```
 <br>
 
@@ -26,11 +28,13 @@ Criando alias para rodar o serviço
     "dev":"nodemon index.js"
   }
   <br>
+
   ```yarn dev```
 
   <br>
   Dependencia para realizar requisição em outros serviços 
     <br>
-    ```yarn add axios  ```
+        
+```yarn add axios```
 
 
