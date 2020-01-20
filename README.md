@@ -11,13 +11,11 @@ Executando o serviço
 <br>
 
 Adicionando Nodemon
-<br>
 
 ```yarn add nodemon -d```
 <br>
 
 Exutando Serrviço com Nodemon
-<br>
 
 ```yarn nodemon index.js```
 <br>
@@ -27,7 +25,6 @@ Criando alias para rodar o serviço
  "scripts":{
     "dev":"nodemon index.js"
   }
-  <br>
 
   ```yarn dev```
 
